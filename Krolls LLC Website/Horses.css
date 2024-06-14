@@ -1,0 +1,32 @@
+main {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 5% 10%;
+    background-image: url(images/Horses1.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.description-box {
+    background-color: rgba(128, 128, 128, 0.8);
+    padding: 20px;
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    margin-left: 4%;
+}
+
+ul{
+    margin-left: 6%;
+}
+
+header, footer{
+    background-color: #766f6fe8;
+}
